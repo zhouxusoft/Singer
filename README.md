@@ -1,4 +1,4 @@
-# The-first
+# My first program
 我的第一个项目
 歌手大赛成绩管理系统
 ```c
