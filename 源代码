@@ -1,12 +1,12 @@
-###### My first program
+# My first program
+我的第一个项目
 歌手大赛成绩管理系统
-、、、c
+```c
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
 #include <time.h>
 #include <io.h>
-
 int login();
 int Program();
 int list(FILE *fp);
@@ -14,7 +14,6 @@ int addWork();
 int enter();
 int inquire(FILE *fp);
 int ranking(FILE *fP);
-
 int main()
 { 
     char dirs[2][20] = {"MainFile", "ProgramList"};
@@ -342,4 +341,4 @@ int ranking(FILE *fp)
     system("cls");
     list(fp);
 }
-、、、
+```
