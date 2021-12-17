@@ -1,7 +1,6 @@
-### My first program
-我的第一个项目
+###### My first program
 歌手大赛成绩管理系统
-```c
+、、、c
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
@@ -343,4 +342,4 @@ int ranking(FILE *fp)
     system("cls");
     list(fp);
 }
-```
+、、、
